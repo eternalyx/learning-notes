@@ -1,0 +1,2 @@
+public class XArrayList {
+}
